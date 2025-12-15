@@ -12,7 +12,6 @@ I'm passionate about crafting immersive gaming experiences and bringing creative
 - 💡 **Passion**: Creating unique ideas and gameplay mechanics that never created before.
 - 🌱 **Currently Working On**: Shader programming, dialogue systems, grid based gameplay systems.
 - 🎨 **Interests**: Game Design, Level Design, Player Experience Design, Interactive Storytelling and Gameplay Programming.
-- ⚡ **Fun Fact**: I believe every 
 
 ---
 
