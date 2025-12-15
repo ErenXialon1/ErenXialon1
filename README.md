@@ -45,7 +45,8 @@ I'm passionate about crafting immersive gaming experiences and bringing creative
 
 Gemmy Gems: A Cozy Shop Sim
 
-<iframe src="https://store.steampowered.com/widget/4103850/" frameborder="0" width="646" height="190"></iframe>
+https://store.steampowered.com/app/4103850/Gemmy_Gems_A_Cozy_Shop_Sim/
+
 
 ---
 
@@ -53,8 +54,7 @@ Gemmy Gems: A Cozy Shop Sim
 
 Let's collaborate and create something amazing together!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/kemal-eren-sivrikaya/))
 
 ---
 
