@@ -53,7 +53,7 @@ https://store.steampowered.com/app/4103850/Gemmy_Gems_A_Cozy_Shop_Sim/
 
 Let's collaborate and create something amazing together!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/kemal-eren-sivrikaya/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][((https://www.linkedin.com/in/kemal-eren-sivrikaya)])
 
 ---
 
