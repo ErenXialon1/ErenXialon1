@@ -11,7 +11,7 @@ I'm passionate about crafting immersive gaming experiences and bringing creative
 - 🎯 **Focus**: Unity Game Development, C# Programming, Game Design, Player(User) Experience
 - 💡 **Passion**: Creating unique ideas and gameplay mechanics that never created before.
 - 🌱 **Currently Working On**: Shader programming, dialogue systems, grid based gameplay systems.
-- 🎨 **Interests**: Game Design, Level Design, Player Experience Design, Interactive Storytelling and Gameplay Programming.
+- 🎨 **Interests**: Game Design, Level Design, Player Experience Design, Gameplay Programming.
 
 ---
 
@@ -20,7 +20,7 @@ I'm passionate about crafting immersive gaming experiences and bringing creative
 ### Game Development
 - 🎮 **Engine**: Unity (2D/3D)
 - 💻 **Languages**: C#
-- 🎨 **Tools**: Visual Studio Code, Github Desktop, FMOD, FL Studio, Autodraw
+- 🎨 **Tools**: Visual Studio Code, Github Desktop, FMOD, FL Studio, ClickUp
 
 ### Core Competencies
 - ✨ Gameplay Programming
