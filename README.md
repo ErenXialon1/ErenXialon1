@@ -16,7 +16,7 @@ On the player-facing side, I built gameplay systems from prototype through imple
 
 ## Tools I use
 
-- Unity 6 and C#
+- Unity and C#
 - ScriptableObjects, UI Toolkit, and UGUI
 - Unity Input System
 - Custom editor tooling
